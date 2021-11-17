@@ -7,8 +7,8 @@ var engine, world,ground;
 
 
 function preload() {
-  backgroundImg = loadImage("./assets/background.gif");
-  towerImg = loadImage("./assets/tower.png");
+  backgroundImg = loadImage("assets/background.gif");
+  towerImg = loadImage("assets/tower.png");
   
 }
 function setup() {
